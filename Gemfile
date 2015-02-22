@@ -13,6 +13,7 @@ gem 'pg'
 
 group :development, :test do
   gem 'pry-rails'
+  gem 'capybara'
   gem 'web-console', '~> 2.0'
   gem 'rspec-rails'
   gem 'spring'
